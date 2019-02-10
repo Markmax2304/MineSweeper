@@ -1,5 +1,5 @@
 # MineSweeper
 Minesweeper game is made by Unity
-![Classes Diagram][img]
-[img]: MineSweeper/minesweeper_diagram_classes.jpg
+![img Classes_diagram][img]
+[img]: MineSweeper/minesweeper_diagram_classes.jpg "Diagram"
       
